@@ -12,6 +12,7 @@ public class Main {
 		// Genera 5 números principales
 
 		// Número complementario
+		System.out.println("Cambio realizado desde GitHub.");
 
 	}
 }
