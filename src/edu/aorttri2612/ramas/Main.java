@@ -21,6 +21,8 @@ public class Main {
 		System.out.println("Suma de principales: " + suma);
 
 		System.out.println("Bienvenido al sorteo desde main! ¡Suerte en el sorteo, DAM!");
+		System.out.println("Cambio realizado desde GitHub");
+
 
 	}
 }
